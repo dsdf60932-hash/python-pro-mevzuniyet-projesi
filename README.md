@@ -1,4 +1,4 @@
-# Karbon AYAK izi Hesaplayıcı
+# Karbon Ayak izi Hesaplayıcı
 ## Yardımcı Elemanlar 
 ### Web tasarım temelleri 
 ### HTML + CSS
